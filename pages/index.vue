@@ -1,5 +1,6 @@
 <template lang="pug">
   section.container(:class="{active: active}")
+    p I'm raddddd
     button(@click="active = !active") hello
 </template>
 

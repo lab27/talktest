@@ -7,5 +7,6 @@ layout: default
 
 # testing
 these are the design specs.
+added this from main.
 
 theme: {{site.theme}}
