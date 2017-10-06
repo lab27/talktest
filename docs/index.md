@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-# {{site.title}}
 
 these are the design specs.
+
+theme: {{site.theme}}
