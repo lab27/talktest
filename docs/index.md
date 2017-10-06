@@ -1,4 +1,4 @@
 ---
 ---
 
-# Try this new docs! They're greeaaaat!!
+# Try this new docs! They're fantsatic!!
