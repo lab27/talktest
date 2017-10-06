@@ -2,7 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
+@import "home.scss";
 
-h1 {
-    color: lime;
-}
