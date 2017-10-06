@@ -1,0 +1,26 @@
+<template lang="pug">
+  section.container(:class="{active: active}")
+    button(@click="active = !active") hello
+</template>
+
+<script>
+import Logo from '~/components/Logo.vue'
+
+export default {
+  components: {
+    Logo
+  },
+  data () {
+    return {
+      active: false
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+
+
+@import '~assets/css/home.scss';
+
+</style>
